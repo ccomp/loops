@@ -1,4 +1,4 @@
-loops
+Loops
 =====
 
 Loops, bruh
@@ -6,4 +6,4 @@ Loops, bruh
 while and for loops
 
 
-#latest edit
+#Latest Edit
